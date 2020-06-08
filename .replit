@@ -1,2 +1,2 @@
 language = "python3"
-run = "python countPrimes.py"
+run = "python powerof3.py"

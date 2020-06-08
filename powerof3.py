@@ -44,7 +44,7 @@ def isPowerOfThree(n):
   else:
     return False
 
-print(isPowerOfThree(0))
+print(isPowerOfThree(81))
 
 
 #Review
