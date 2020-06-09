@@ -1,2 +1,2 @@
 language = "python3"
-run = "python divisibility.py"
+run = "python fibonacci.py"
