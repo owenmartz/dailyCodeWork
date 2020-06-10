@@ -1,2 +1,2 @@
 language = "python3"
-run = "python fibonacci.py"
+run = "python fizbuzz.py"
